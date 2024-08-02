@@ -23,3 +23,13 @@ Source(license in README)[PVRTEX by tapamN](https://dcemulation.org/phpBB/viewto
 ## radx
 Encodes WAV audio files to ADX audio files. coded in Rust. Provided excutable is Windows, only tested with Wine on Linux, MacOS with wine will work too.<br/>
 Source(with license):[RADX by issac lozano](https://github.com/Isaac-Lozano/radx)<br/>
+
+## scramble
+Scrambles a .bin file to 1ST_READ.BIN. used in the cdi4dc-making process. Not needed for mkdcdisc. Anything with a standard GCC toolchain will run it<br/>
+Source(pubic domain):[SCRAMBLE by Marcus Comstedt](https://dreamcast.wiki/Scrambling)<br/>
+
+
+Welp, that's all the tools i included. You can use this for anything to be honest. Other than that. Happy baremetal coding :)<br/>
+
+~LUCiDViUSALS
+
