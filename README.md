@@ -7,3 +7,8 @@ Source (with license): [CDI4DC by sizious](https://github.com/sizious/img4dc/tre
 
 ## gdisofs
 used to extract GDI/CDI to a mounting point/folder. Untested for Windows, Linux executable provided, Untested on MacOS.<br/> Source (with license): [GDISOFS by snickerbockers](https://gitlab.com/snickerbockers/gdisofs/-/tree/master)<br/>
+
+## makeip
+Used to make IP.BIN files, can implement logos into the bootstrap. You can make your own IP template called `ip.txt` for custom names, game titles, etc. Works on Windows, Linux, and MacOS.<br/>
+Source (with license): [MAKEIp by sizious, BBHoodsta](https://github.com/Dreamcast-Projects/makeip?tab=readme-ov-file)<br/>
+
