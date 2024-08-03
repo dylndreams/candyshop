@@ -1,5 +1,5 @@
 # candyshop
-This is another dependency for libLUCID. This repo contains a bunch of tools for Dreamcast development. So far, it's only CDI tools and file encoders. Below are the Source links and a brief description of the tools.<br/>
+This is another dependency for libLUCID. (not really anymore, i'll figure it out) This repo contains a bunch of tools for Dreamcast development. So far, it's only CDI tools and file encoders. Below are the Source links and a brief description of the tools.<br/>
 
 ## cdi4dc
 converts ISO files to CDI Roms, isn't used as much because of its replacement, mkdcdisc. Compiles for Windows, provided executable is for Linux, untested for MacOS. <br/>
